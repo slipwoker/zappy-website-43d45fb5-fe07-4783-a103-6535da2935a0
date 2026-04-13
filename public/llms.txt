@@ -1,0 +1,87 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+Ayalot היא מותג תכשיטים מינימליסטי שמאמין שכל אישה היא האירוע עצמו. צמידים, שרשראות ועגילים עשויים פליז עם ציפוי זהב 18K — כי הנכון בדיוק תמיד עדיף על יותר מדי.
+
+### צמידי השראה
+https://example.com/inspiration-bracelets
+צמידי ההשראה של Ayalot נולדו כדי להזכיר לך מי את בכל רגע. עיצוב עדין, מסר עמוק, פליז עם ציפוי זהב 18K. גלי את הצמיד שמדבר אליך ישירות אל הנשמה.
+
+### שרשראות
+https://example.com/necklaces
+שרשראות Ayalot הן שירה שלובשים על הצוואר. כל שרשרת מינימליסטית מעוצבת ביד מפליז עם ציפוי זהב 18K — עדינה, נועזת, ומושלמת לאישה שיודעת בדיוק מה היא שווה.
+
+### עגילים
+https://example.com/earrings
+עגילי Ayalot מעוצבים לאישה שמוצאת יופי בפרטים הקטנים. פליז עם ציפוי זהב 18K, עיצוב נקי ומרגש — כי כל הבזק קטן יכול לשנות את כל המראה. גלי את הזוג שנברא בשבילך.
+
+### אודות
+https://example.com/about
+Ayalot נולד מתוך אמונה שכל אישה נושאת בתוכה עוצמה שקטה שראויה לחגיגה. גלי את הפילוסופיה, הערכים והאהבה לאומנות שמניעים כל תכשיט שנוצר ביד עם לב שלם.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, בקשה מיוחדת או סתם רצית להגיד שלום? אנחנו כאן בשבילך. צרי קשר עם Ayalot ונמצא יחד את התכשיט שמספר בדיוק את הסיפור שלך — כי את ראויה לבדיוק הנכון.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Ayalot
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Ayalot
+
+### Category
+https://example.com/category/:slug
+מוצרים - Ayalot
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
